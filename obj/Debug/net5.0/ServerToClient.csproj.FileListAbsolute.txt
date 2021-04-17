@@ -1,0 +1,16 @@
+/home/mikhail/Code/ServerToClient/obj/Debug/net5.0/ServerToClient.csprojAssemblyReference.cache
+/home/mikhail/Code/ServerToClient/obj/Debug/net5.0/ServerToClient.GeneratedMSBuildEditorConfig.editorconfig
+/home/mikhail/Code/ServerToClient/obj/Debug/net5.0/ServerToClient.AssemblyInfoInputs.cache
+/home/mikhail/Code/ServerToClient/obj/Debug/net5.0/ServerToClient.AssemblyInfo.cs
+/home/mikhail/Code/ServerToClient/obj/Debug/net5.0/ServerToClient.csproj.CoreCompileInputs.cache
+/home/mikhail/Code/ServerToClient/bin/Debug/net5.0/ServerToClient
+/home/mikhail/Code/ServerToClient/bin/Debug/net5.0/ServerToClient.deps.json
+/home/mikhail/Code/ServerToClient/bin/Debug/net5.0/ServerToClient.runtimeconfig.json
+/home/mikhail/Code/ServerToClient/bin/Debug/net5.0/ServerToClient.runtimeconfig.dev.json
+/home/mikhail/Code/ServerToClient/bin/Debug/net5.0/ServerToClient.dll
+/home/mikhail/Code/ServerToClient/bin/Debug/net5.0/ref/ServerToClient.dll
+/home/mikhail/Code/ServerToClient/bin/Debug/net5.0/ServerToClient.pdb
+/home/mikhail/Code/ServerToClient/obj/Debug/net5.0/ServerToClient.dll
+/home/mikhail/Code/ServerToClient/obj/Debug/net5.0/ref/ServerToClient.dll
+/home/mikhail/Code/ServerToClient/obj/Debug/net5.0/ServerToClient.pdb
+/home/mikhail/Code/ServerToClient/obj/Debug/net5.0/ServerToClient.genruntimeconfig.cache
